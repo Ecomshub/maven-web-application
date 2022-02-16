@@ -104,9 +104,8 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Vedha Technologies Snapshot Nexus Repository </name>
-	      <url>http:</url>
+	      <url>http://15.206.205.253:8082/mahendra/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
-	    http://15.206.205.253:8082/mahendra/repository/flipkart-snapshot/
 	</distributionManagement>
 	
 	<build>
